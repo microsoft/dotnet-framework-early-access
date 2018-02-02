@@ -1,21 +1,16 @@
-# .NET Framework 4.7.1 Early Access
+# .NET Framework Early Access
 
-This repository is the home for [.NET Framework Early Access Program](https://blogs.msdn.microsoft.com/dotnet/2017/08/07/welcome-to-the-net-framework-4-7-1-early-access). It provides you with  all the information you need to participate in .NET Framework Early Access Program.
-
-The .NET Framework 4.7.1 is the next version of the .NET Framework. It is currently feature-complete and in the testing phase. We are asking for individuals and companies to help validate the quality and compatibility of the release. It is not ready for production and is not supported.
+This repository is the home for .NET Framework Early Access Program. It provides you with all the information you need to participate in .NET Framework Early Access Program. In this program we will share early builds of the next release of the .NET Framework on a regular basis for your feedback. As a member of the .NET Framework Early Access community you will have an active role in helping us build new .NET Framework products. We are asking for individuals and companies to help validate the quality and compatibility of .NET Framework releases. The builds shared via this program are not ready for production and are not supported. 
 
 * [.NET Framework Early Access License](microsoft-dotnet-framework-pre-release-license.txt)
-* [Click to accept license terms and download .NET Framework 4.7.1 Developer Pack build 2539](https://go.microsoft.com/fwlink/?linkid=858231) - The Developer Pack installs the .NET Framework 4.7.1 build 2539, the .NET Framework Targeting Pack and the .NET Framework SDK.
+* [Download .NET Framework Early Access build 3051](https://go.microsoft.com/fwlink/?linkid=867317) 
 
 
 **Participation Information**
 
 * [Instructions](instructions.md)
-* [Release Notes](https://github.com/Microsoft/dotnet/tree/master/releases/net471/README.md)
-* [Known issues](https://github.com/Microsoft/dotnet/blob/master/releases/net471/dotnet471-known-issues.md) 
-* [Build 2539 - Welcome to the .NET Framework 4.7.1 Early Access!](https://blogs.msdn.microsoft.com/dotnet/2017/08/07/welcome-to-the-net-framework-4-7-1-early-access)
-* Features in .NET Framework 4.7.1
-    * [ASP.NET, Configuration and System.Messaging](https://blogs.msdn.microsoft.com/dotnet/2017/09/13/net-framework-4-7-1-asp-net-and-configuration-features)
+* [Release Notes](release-notes/build-3051/README.md)
+* [Build 3051 - Announcing .NET Framework 4.7.2 Early Access build 3051!](https://blogs.msdn.microsoft.com/dotnet/2018/02/01/announcing-net-framework-4-7-2-early-access-build-3051)
 
 **Reporting Issues**
 
@@ -34,18 +29,19 @@ We typically ship pre-release builds for .NET Framework releases to get early fe
 
 ### Windows Versions
 
-The .NET Framework 4.7.1 Build 2539 can be installed on the following Windows versions.
+The .NET Framework Build 3051 can be installed on the following Windows versions.
 
 **Client**
 
 * Windows 7 SP1
 * Windows 8.1
 * Windows 10 Anniversary Update
+* Windows 10 Creators Update
+* Windows 10 Fall Creators Update
 
 **Server**
 
 * Windows Server 2008 R2 SP1
-* Windows Server 2012
 * Windows Server 2012 R2
 * Windows Server 2016
 
@@ -55,9 +51,7 @@ The .NET Framework Early Access Builds are also included in the next version of 
 
 ## More Information on the .NET Framework
 
-The [.NET Framework 4.7](https://blogs.msdn.microsoft.com/dotnet/2017/05/02/announcing-the-net-framework-4-7-general-availability/) is the latest version of the [.NET Framework](https://docs.microsoft.com/dotnet/framework/). It can be used for production deployments on Windows 7, Windows Server 2008 R2 SP1, and later versions of both the client and server Windows families.
-
-The .NET Framework 4.7.1 will be the next version of the .NET Framework. You can see the improvements in this next version in the [.NET Framework 4.7.1 release notes](https://github.com/Microsoft/dotnet/tree/master/releases/net471).
+The [.NET Framework 4.7.1](https://blogs.msdn.microsoft.com/dotnet/2018/01/09/net-framework-4-7-1-is-available-on-windows-update-wsus-and-mu-catalog/) is the latest version of the [.NET Framework](https://docs.microsoft.com/dotnet/framework/). It can be used for production deployments on Windows 7, Windows Server 2008 R2 SP1, and later versions of both the client and server Windows families.
 
 Please continue to file .NET Framework released product issues at [microsoft/dotnet](https://github.com/microsoft/dotnet/issues),
 .NET Core product issues at [dotnet/core](https://github.com/dotnet/core/issues),
