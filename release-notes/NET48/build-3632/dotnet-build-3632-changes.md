@@ -1,5 +1,6 @@
 # .NET Framework Build 3632 Release Notes
-You can view the full list of changes [here](/release-notes/NET48/dotnet-48-changes.md)
+
+The following changes are included in .NET Framework 4.8 build 3632. You can view the full list of [.NET Framework 4.8 changes](/release-notes/NET48/dotnet-48-changes.md) up to and included build 3632.
 
 .NET Framework release notes describe product improvements grouped by product area. Each change includes a Microsoft-internal VSTS bug ID, the primary binary that was updated and whether the change was a bug or a feature.
 
