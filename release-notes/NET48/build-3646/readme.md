@@ -3,7 +3,7 @@
 You can learn about the changes made in this build of the .NET Framework.
 
 - [Download](https://go.microsoft.com/fwlink/?LinkId=2018486)
-- [Announcement blog post](https://blogs.msdn.microsoft.com/dotnet/2018/07/18/announcing-net-framework-4-8-early-access-build-3646)
+- [Announcement blog post](https://blogs.msdn.microsoft.com/dotnet/2018/09/17/announcing-net-framework-4-8-early-access-build-3646)
 - [Release notes](dotnet-build-3646-changes.md)
 
 ## Release Notes by Product Area
