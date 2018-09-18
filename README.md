@@ -10,7 +10,7 @@ This repository is the home for .NET Framework Early Access Program. It provides
 
 * [Install Instructions](instructions.md)
 * [Release Notes](release-notes/NET48/build-3646/readme.md)
-* [Build 3646 - Blog post](https://blogs.msdn.microsoft.com/dotnet/2018/07/18/announcing-net-framework-4-8-early-access-build-3646)
+* [Build 3646 - Blog post](https://blogs.msdn.microsoft.com/dotnet/2018/09/17/announcing-net-framework-4-8-early-access-build-3646)
 
 **Reporting Issues**
 
